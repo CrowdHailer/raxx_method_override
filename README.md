@@ -1,6 +1,6 @@
 # Raxx.MethodOverride
 
-**[Raxx]() middleware to override a request's `POST` method with value declared in `_method` query parameter.**
+**[Raxx](https://github.com/crowdhailer/raxx) middleware to override a request's `POST` method with value declared in `_method` query parameter.**
 
 [![Hex pm](http://img.shields.io/hexpm/v/raxx_method_override.svg?style=flat)](https://hex.pm/packages/raxx_method_override)
 [![Build Status](https://secure.travis-ci.org/CrowdHailer/raxx_method_override.svg?branch=master
